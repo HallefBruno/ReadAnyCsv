@@ -1,4 +1,4 @@
 # ReadAnyCsv
 Ler qualquer CSV Usando Java e Biblioteca Swing
 
-[[https://github.com/USERNAME/REPOSITORY/blob/main/img/octocat.png|alt=octocat]]
+[[https://github.com/HallefBruno/ReadAnyCsv/blob/master/src/readanycsv/img/Capturar.PNG]]
